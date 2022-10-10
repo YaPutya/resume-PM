@@ -166,8 +166,18 @@ body {
 
 @media screen and (min-width: 375px) and (max-width: 767px) {
   .skills {
-    width: 377px;
+    width: 365px;
   }
+
+  .skills__container-hard.reveal.active {
+    margin-right: 20px;
+    width: 190px;
+  }
+
+  .skills__container-soft.reveal.active {
+    width: 190px;
+  }
+  
 }
 
 @media screen and (min-width: 1280px) and (max-width: 1440px) {
