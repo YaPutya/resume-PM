@@ -461,7 +461,7 @@ body {
 
 @media screen and (min-width: 375px) and (max-width: 767px) {
   .copy {
-    margin-left: calc(var(--index) * 13);
+    margin-left: calc(var(--index) * 14.2);
   bottom: calc(var(--index) * 5.5);
   }
 }
